@@ -1,0 +1,2 @@
+study
+-DCATKIN_DEVEL_PREFIX=/home/sanket/Desktop/work/devel -DCMAKE_INSTALL_PREFIX=/home/sanket/Desktop/work/install -G Unix Makefiles
