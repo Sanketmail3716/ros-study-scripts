@@ -1,3 +1,4 @@
+
 import rospy
 from std_msgs.msg import String
 
@@ -9,3 +10,5 @@ def cb(data):
 
 rospy.Subscriber('/chatter', String, cb)
 rospy.spin()    
+
+
